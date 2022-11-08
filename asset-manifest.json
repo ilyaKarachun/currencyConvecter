@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/currencyConvecter/static/css/main.d6f8d820.chunk.css",
+    "main.js": "/currencyConvecter/static/js/main.cdbf124f.chunk.js",
+    "main.js.map": "/currencyConvecter/static/js/main.cdbf124f.chunk.js.map",
+    "runtime-main.js": "/currencyConvecter/static/js/runtime-main.2239b701.js",
+    "runtime-main.js.map": "/currencyConvecter/static/js/runtime-main.2239b701.js.map",
+    "static/js/2.19279e7c.chunk.js": "/currencyConvecter/static/js/2.19279e7c.chunk.js",
+    "static/js/2.19279e7c.chunk.js.map": "/currencyConvecter/static/js/2.19279e7c.chunk.js.map",
+    "index.html": "/currencyConvecter/index.html",
+    "static/css/main.d6f8d820.chunk.css.map": "/currencyConvecter/static/css/main.d6f8d820.chunk.css.map",
+    "static/js/2.19279e7c.chunk.js.LICENSE.txt": "/currencyConvecter/static/js/2.19279e7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2239b701.js",
+    "static/js/2.19279e7c.chunk.js",
+    "static/css/main.d6f8d820.chunk.css",
+    "static/js/main.cdbf124f.chunk.js"
+  ]
+}
